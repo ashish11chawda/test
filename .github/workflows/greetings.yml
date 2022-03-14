@@ -18,7 +18,7 @@ jobs:
           Please add appropriate labels to let maintainers know the type of issue and also add relevant details and screenshots if needed
           Happy Hacking! ✨
         pr-message: |-
-          Hi @${{ github.event.issue.user.login }} 👋! 
+          Hi ${{ github.event.issue.user.login }} 👋! 
           Congratulations on opening your first pull request 🎊!
           Please add appropriate labels to let maintainers know the type of change proposed and also please reference the issue this pull request is closing
           Happy Hacking! ✨
