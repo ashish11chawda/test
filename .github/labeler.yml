@@ -2,6 +2,9 @@
 octoweek:
 - "*"
 
+github-actions:
+- any: [".github/*.yml", ".github/**/*.yml"]
+
 # Add 'source' label to any change to src files within the source dir EXCEPT for the docs sub-folder
 documentation:
 - any: ["*.md"]
