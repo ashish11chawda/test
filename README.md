@@ -1,4 +1,4 @@
-# hello-world
+# hello world
 
 hey!, Ashish here. I am beginner to git and learning git is fun!
 
